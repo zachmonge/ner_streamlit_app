@@ -1,0 +1,6 @@
+streamlit
+pandas
+numpy
+fastai==1.0.61
+joblib
+scikit-learn==0.22.1
