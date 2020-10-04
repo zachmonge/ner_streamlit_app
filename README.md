@@ -11,3 +11,7 @@ This will build the Docker image. Then, to run the container, run the following 
 ```docker run -p 8501:8501 ner_app:latest```
 
 The app will now be available at http://localhost:8501/
+
+This is the landing page of the app. As you can see, it is not completely polished at this point (there are tokens indicatings that the first letter of each word is capitalized)
+
+![](/images/image1.PNG)
