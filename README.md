@@ -1,4 +1,4 @@
-# Named Entity Streamlit App
+# Named Entity Recognition Streamlit App
 
 This is a simple named entity recognition app. It uses a custom model that is far from state-of-the-art. It simply uses a linear logistic regression and was trained with a bag-of-words representation. This app is simply to practice creating a web app and wrap it in a Docker image.
 
